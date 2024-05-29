@@ -1,6 +1,7 @@
 # Customer-Behavior-at-Beta-Bank
 
 Project Description:
+
 Customers of Beta Bank are leaving the company: gradually, their numbers are decreasing every month. Bank employees realize that it would be more cost-effective for the company to focus on retaining their loyal existing customers rather than attracting new ones.
 
 In this case, our task is to predict whether a customer will soon leave the bank or not. You have data related to the behavior of clients in the past and their history of contract terminations with the bank.
