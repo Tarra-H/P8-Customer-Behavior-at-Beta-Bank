@@ -1,4 +1,4 @@
-# Customer-Behavior-at-Beta-Bank
+# Predicting Customer-Behavior-at-Beta-Bank
 
 Project Description:
 
